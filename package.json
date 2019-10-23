@@ -12,9 +12,7 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "keywords": [
-    "heroku"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
